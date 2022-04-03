@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Team Randomizer</string>
+    <string name="separateNames"><b>"Separate Names with \',\'\n</b><b> Example: Oliver, Emma, Liam</b></string>
+</resources>
